@@ -1,0 +1,9 @@
+make a map task : &{0 0 10 [/home/lzy/6.824/src/main/pg-being_ernest.txt]}
+make a map task : &{0 1 10 [/home/lzy/6.824/src/main/pg-dorian_gray.txt]}
+make a map task : &{0 2 10 [/home/lzy/6.824/src/main/pg-frankenstein.txt]}
+make a map task : &{0 3 10 [/home/lzy/6.824/src/main/pg-grimm.txt]}
+make a map task : &{0 4 10 [/home/lzy/6.824/src/main/pg-huckleberry_finn.txt]}
+make a map task : &{0 5 10 [/home/lzy/6.824/src/main/pg-metamorphosis.txt]}
+make a map task : &{0 6 10 [/home/lzy/6.824/src/main/pg-sherlock_holmes.txt]}
+make a map task : &{0 7 10 [/home/lzy/6.824/src/main/pg-tom_sawyer.txt]}
+2023/04/16 19:49:35 rpc.Register: method "Done" has 1 input parameters; needs exactly three
